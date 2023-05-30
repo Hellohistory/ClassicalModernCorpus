@@ -39,3 +39,7 @@ https://github.com/NiuTrans/Classical-Modern
 Date0524当中一共包含26个JSON文件，总大小为242Mb
 
 Date0525当中一共包含4670个JSON文件，总大小为99.4Mb
+
+# 5.下载地址
+
+百度网盘: https://pan.baidu.com/s/1gpabFt_DrfZfWunQ0RIKiw?pwd=40kc 
