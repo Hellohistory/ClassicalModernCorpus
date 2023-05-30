@@ -43,3 +43,5 @@ Date0525当中一共包含4670个JSON文件，总大小为99.4Mb
 # 5.下载地址
 
 百度网盘: https://pan.baidu.com/s/1gpabFt_DrfZfWunQ0RIKiw?pwd=40kc 
+
+Google云端硬盘: https://drive.google.com/drive/folders/1okDzEdWuK9pGydHKik6wrB_TpCi2S60g?usp=sharing
